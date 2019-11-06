@@ -1,1 +1,2 @@
+ThisIS my thrd stash s3
 This is my fst stash s1
