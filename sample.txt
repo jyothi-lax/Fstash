@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is third stash s2
+=======
+This is my fst stash s0
+>>>>>>> Stashed changes
 
 
 
