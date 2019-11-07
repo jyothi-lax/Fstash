@@ -1,6 +1,6 @@
-<<<<<<< Updated upstreaTHIS IS pop Egm
-ThisIS my thrd stash s3
-=======
-This is my scnd stash s2
->>>>>>> Stashed changes
-This is my fst stash s1
+This is third stash s2
+
+
+
+
+
